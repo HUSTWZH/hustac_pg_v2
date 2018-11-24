@@ -98,6 +98,596 @@
         <joint name="right_joint6" value="1.543" />
         <joint name="right_joint7" value="-2.85" />
     </group_state>
+
+    <group_state name="right_arm_1" group="arm_right">
+        <joint name="right_joint1" value="-0.174" />
+        <joint name="right_joint2" value="-0.174" />
+        <joint name="right_joint3" value="-0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_2" group="arm_right">
+        <joint name="right_joint1" value="-0.174" />
+        <joint name="right_joint2" value="-0.174" />
+        <joint name="right_joint3" value="0" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_3" group="arm_right">
+        <joint name="right_joint1" value="-0.174" />
+        <joint name="right_joint2" value="-0.174" />
+        <joint name="right_joint3" value="0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_4" group="arm_right">
+        <joint name="right_joint1" value="-0.174" />
+        <joint name="right_joint2" value="-0.174" />
+        <joint name="right_joint3" value="0.35" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_5" group="arm_right">
+        <joint name="right_joint1" value="-0.174" />
+        <joint name="right_joint2" value="0" />
+        <joint name="right_joint3" value="-0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_6" group="arm_right">
+        <joint name="right_joint1" value="-0.174" />
+        <joint name="right_joint2" value="0" />
+        <joint name="right_joint3" value="0" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_7" group="arm_right">
+        <joint name="right_joint1" value="-0.174" />
+        <joint name="right_joint2" value="0" />
+        <joint name="right_joint3" value="0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_8" group="arm_right">
+        <joint name="right_joint1" value="-0.174" />
+        <joint name="right_joint2" value="0" />
+        <joint name="right_joint3" value="0.35" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    
+    <group_state name="right_arm_9" group="arm_right">
+        <joint name="right_joint1" value="-0.174" />
+        <joint name="right_joint2" value="0.174" />
+        <joint name="right_joint3" value="-0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_10" group="arm_right">
+        <joint name="right_joint1" value="-0.174" />
+        <joint name="right_joint2" value="0.174" />
+        <joint name="right_joint3" value="0" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_11" group="arm_right">
+        <joint name="right_joint1" value="-0.174" />
+        <joint name="right_joint2" value="0.174" />
+        <joint name="right_joint3" value="0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_12" group="arm_right">
+        <joint name="right_joint1" value="-0.174" />
+        <joint name="right_joint2" value="0.174" />
+        <joint name="right_joint3" value="0.35" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+
+    <group_state name="right_arm_13" group="arm_right">
+        <joint name="right_joint1" value="-0.174" />
+        <joint name="right_joint2" value="0.35" />
+        <joint name="right_joint3" value="-0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_14" group="arm_right">
+        <joint name="right_joint1" value="-0.174" />
+        <joint name="right_joint2" value="0.35" />
+        <joint name="right_joint3" value="0" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_15" group="arm_right">
+        <joint name="right_joint1" value="-0.174" />
+        <joint name="right_joint2" value="0.35" />
+        <joint name="right_joint3" value="0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_16" group="arm_right">
+        <joint name="right_joint1" value="-0.174" />
+        <joint name="right_joint2" value="0.35" />
+        <joint name="right_joint3" value="0.35" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+
+    <group_state name="right_arm_17" group="arm_right">
+        <joint name="right_joint1" value="0" />
+        <joint name="right_joint2" value="-0.174" />
+        <joint name="right_joint3" value="-0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_18" group="arm_right">
+        <joint name="right_joint1" value="0" />
+        <joint name="right_joint2" value="-0.174" />
+        <joint name="right_joint3" value="0" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_19" group="arm_right">
+        <joint name="right_joint1" value="0" />
+        <joint name="right_joint2" value="-0.174" />
+        <joint name="right_joint3" value="0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_20" group="arm_right">
+        <joint name="right_joint1" value="0" />
+        <joint name="right_joint2" value="-0.174" />
+        <joint name="right_joint3" value="0.35" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_21" group="arm_right">
+        <joint name="right_joint1" value="0" />
+        <joint name="right_joint2" value="0" />
+        <joint name="right_joint3" value="-0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_22" group="arm_right">
+        <joint name="right_joint1" value="0" />
+        <joint name="right_joint2" value="0" />
+        <joint name="right_joint3" value="0" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_23" group="arm_right">
+        <joint name="right_joint1" value="0" />
+        <joint name="right_joint2" value="0" />
+        <joint name="right_joint3" value="0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_24" group="arm_right">
+        <joint name="right_joint1" value="0" />
+        <joint name="right_joint2" value="0" />
+        <joint name="right_joint3" value="0.35" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    
+    <group_state name="right_arm_25" group="arm_right">
+        <joint name="right_joint1" value="0" />
+        <joint name="right_joint2" value="0.174" />
+        <joint name="right_joint3" value="-0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_26" group="arm_right">
+        <joint name="right_joint1" value="0" />
+        <joint name="right_joint2" value="0.174" />
+        <joint name="right_joint3" value="0" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_27" group="arm_right">
+        <joint name="right_joint1" value="0" />
+        <joint name="right_joint2" value="0.174" />
+        <joint name="right_joint3" value="0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_28" group="arm_right">
+        <joint name="right_joint1" value="0" />
+        <joint name="right_joint2" value="0.174" />
+        <joint name="right_joint3" value="0.35" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+
+    <group_state name="right_arm_29" group="arm_right">
+        <joint name="right_joint1" value="0" />
+        <joint name="right_joint2" value="0.35" />
+        <joint name="right_joint3" value="-0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_30" group="arm_right">
+        <joint name="right_joint1" value="0" />
+        <joint name="right_joint2" value="0.35" />
+        <joint name="right_joint3" value="0" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_31" group="arm_right">
+        <joint name="right_joint1" value="0" />
+        <joint name="right_joint2" value="0.35" />
+        <joint name="right_joint3" value="0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_32" group="arm_right">
+        <joint name="right_joint1" value="0" />
+        <joint name="right_joint2" value="0.35" />
+        <joint name="right_joint3" value="0.35" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+
+    <group_state name="right_arm_33" group="arm_right">
+        <joint name="right_joint1" value="0.174" />
+        <joint name="right_joint2" value="-0.174" />
+        <joint name="right_joint3" value="-0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_34" group="arm_right">
+        <joint name="right_joint1" value="0.174" />
+        <joint name="right_joint2" value="-0.174" />
+        <joint name="right_joint3" value="0" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_35" group="arm_right">
+        <joint name="right_joint1" value="0.174" />
+        <joint name="right_joint2" value="-0.174" />
+        <joint name="right_joint3" value="0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_36" group="arm_right">
+        <joint name="right_joint1" value="0.174" />
+        <joint name="right_joint2" value="-0.174" />
+        <joint name="right_joint3" value="0.35" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_37" group="arm_right">
+        <joint name="right_joint1" value="0.174" />
+        <joint name="right_joint2" value="0" />
+        <joint name="right_joint3" value="-0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_38" group="arm_right">
+        <joint name="right_joint1" value="0.174" />
+        <joint name="right_joint2" value="0" />
+        <joint name="right_joint3" value="0" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_39" group="arm_right">
+        <joint name="right_joint1" value="0.174" />
+        <joint name="right_joint2" value="0" />
+        <joint name="right_joint3" value="0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_40" group="arm_right">
+        <joint name="right_joint1" value="0.174" />
+        <joint name="right_joint2" value="0" />
+        <joint name="right_joint3" value="0.35" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    
+    <group_state name="right_arm_41" group="arm_right">
+        <joint name="right_joint1" value="0.174" />
+        <joint name="right_joint2" value="0.174" />
+        <joint name="right_joint3" value="-0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_42" group="arm_right">
+        <joint name="right_joint1" value="0.174" />
+        <joint name="right_joint2" value="0.174" />
+        <joint name="right_joint3" value="0" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_43" group="arm_right">
+        <joint name="right_joint1" value="0.174" />
+        <joint name="right_joint2" value="0.174" />
+        <joint name="right_joint3" value="0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_44" group="arm_right">
+        <joint name="right_joint1" value="0.174" />
+        <joint name="right_joint2" value="0.174" />
+        <joint name="right_joint3" value="0.35" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+
+    <group_state name="right_arm_45" group="arm_right">
+        <joint name="right_joint1" value="0.174" />
+        <joint name="right_joint2" value="0.35" />
+        <joint name="right_joint3" value="-0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_46" group="arm_right">
+        <joint name="right_joint1" value="0.174" />
+        <joint name="right_joint2" value="0.35" />
+        <joint name="right_joint3" value="0" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_47" group="arm_right">
+        <joint name="right_joint1" value="0.174" />
+        <joint name="right_joint2" value="0.35" />
+        <joint name="right_joint3" value="0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_48" group="arm_right">
+        <joint name="right_joint1" value="0.174" />
+        <joint name="right_joint2" value="0.35" />
+        <joint name="right_joint3" value="0.35" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+
+
+    <group_state name="right_arm_49" group="arm_right">
+        <joint name="right_joint1" value="0.35" />
+        <joint name="right_joint2" value="-0.174" />
+        <joint name="right_joint3" value="-0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_50" group="arm_right">
+        <joint name="right_joint1" value="0.35" />
+        <joint name="right_joint2" value="-0.174" />
+        <joint name="right_joint3" value="0" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_51" group="arm_right">
+        <joint name="right_joint1" value="0.35" />
+        <joint name="right_joint2" value="-0.174" />
+        <joint name="right_joint3" value="0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_52" group="arm_right">
+        <joint name="right_joint1" value="0.35" />
+        <joint name="right_joint2" value="-0.174" />
+        <joint name="right_joint3" value="0.35" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_53" group="arm_right">
+        <joint name="right_joint1" value="0.35" />
+        <joint name="right_joint2" value="0" />
+        <joint name="right_joint3" value="-0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_54" group="arm_right">
+        <joint name="right_joint1" value="0.35" />
+        <joint name="right_joint2" value="0" />
+        <joint name="right_joint3" value="0" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_55" group="arm_right">
+        <joint name="right_joint1" value="0.35" />
+        <joint name="right_joint2" value="0" />
+        <joint name="right_joint3" value="0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_56" group="arm_right">
+        <joint name="right_joint1" value="0.35" />
+        <joint name="right_joint2" value="0" />
+        <joint name="right_joint3" value="0.35" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    
+    <group_state name="right_arm_57" group="arm_right">
+        <joint name="right_joint1" value="0.35" />
+        <joint name="right_joint2" value="0.174" />
+        <joint name="right_joint3" value="-0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_58" group="arm_right">
+        <joint name="right_joint1" value="0.35" />
+        <joint name="right_joint2" value="0.174" />
+        <joint name="right_joint3" value="0" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_59" group="arm_right">
+        <joint name="right_joint1" value="0.35" />
+        <joint name="right_joint2" value="0.174" />
+        <joint name="right_joint3" value="0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_60" group="arm_right">
+        <joint name="right_joint1" value="0.35" />
+        <joint name="right_joint2" value="0.174" />
+        <joint name="right_joint3" value="0.35" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+
+    <group_state name="right_arm_61" group="arm_right">
+        <joint name="right_joint1" value="0.35" />
+        <joint name="right_joint2" value="0.35" />
+        <joint name="right_joint3" value="-0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_62" group="arm_right">
+        <joint name="right_joint1" value="0.35" />
+        <joint name="right_joint2" value="0.35" />
+        <joint name="right_joint3" value="0" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_63" group="arm_right">
+        <joint name="right_joint1" value="0.35" />
+        <joint name="right_joint2" value="0.35" />
+        <joint name="right_joint3" value="0.174" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+    <group_state name="right_arm_64" group="arm_right">
+        <joint name="right_joint1" value="0.35" />
+        <joint name="right_joint2" value="0.35" />
+        <joint name="right_joint3" value="0.35" />
+        <joint name="right_joint4" value="0" />
+        <joint name="right_joint5" value="0" />
+        <joint name="right_joint6" value="0" />
+        <joint name="right_joint7" value="0" />
+    </group_state>
+
     <!-- 2.50, -0.654, 0.875, 1.575, 2.03, 1.543, -2.85 -->
 
     <!--END EFFECTOR: Purpose: Represent information about an end effector.-->
