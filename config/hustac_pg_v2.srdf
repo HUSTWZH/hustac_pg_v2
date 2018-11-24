@@ -688,8 +688,6 @@
         <joint name="right_joint7" value="0" />
     </group_state>
 
-    <!-- 2.50, -0.654, 0.875, 1.575, 2.03, 1.543, -2.85 -->
-
     <!--END EFFECTOR: Purpose: Represent information about an end effector.-->
     <end_effector name="left_eef" parent_link="left_link7" group="left_gripper" />
     <end_effector name="right_eef" parent_link="right_link7" group="right_gripper" />
